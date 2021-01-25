@@ -4,7 +4,7 @@
 # AutoBuild DiyScript
 
 Diy_Core() {
-	Author=Hyy2001 & Jays
+	Author=Hyy2001-J
 	Default_Device=d-team_newifi-d2
 
 	INCLUDE_AutoUpdate=true
